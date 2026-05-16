@@ -1,0 +1,9 @@
+{
+    "name": "st-ext-server-loader",
+    "version": "0.1.0",
+    "description": "SillyTavern server-plugin that auto-loads server-side code shipped inside third-party extensions.",
+    "main": "index.js",
+    "author": "rostchri",
+    "license": "MIT",
+    "homepage": "https://github.com/rostchri/st-ext-server-loader"
+}
